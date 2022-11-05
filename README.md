@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @szq-123
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me noway
+- 👋 Hi, I’m John Song！
+- 👀 I’m interested in sleep
+- 🌱 I’m currently learning sleep
+- 💞️ I’m looking to collaborate on sleep
+- 📫 How to reach me in your dreamland
 
 <!---
 szq-123/szq-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
